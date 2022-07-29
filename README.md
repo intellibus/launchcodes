@@ -23,8 +23,9 @@
 
 ## Features ✨
 
-- Google Add-Ons Plugin `Planned`
-- Chrome Extension Plugin `Planned`
+- Google Add-Ons Store Plugin `Planned`
+- Chrome Extension Store Plugin `Planned`
+- Firefox Extension Store Plugin `Planned`
 - Solar System Plugin `Planned`
 
 ## Install 🛠
