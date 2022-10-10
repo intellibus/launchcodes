@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "launchcodes",
-  "version": "1.0.92",
+  "version": "1.0.93",
   "description": "Semantic Release Plugins For The Open Source Universe",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
